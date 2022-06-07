@@ -7,7 +7,7 @@ This website is track your workday from 9 am to 5 pm. You may update events and 
 This site was coded utilizing a mixture of HTML, CSS, Javascript, Bootstrap, Jquery, and several other publicly available packages and/or frameworks.
 
 ### Screenshot
-![Work-Day-Scheduler](assets/images/screenshot1.jpg?raw=true "Work-Day-Scheduler")
+![Work-Day-Scheduler](assets/images/screenshot1.JPG?raw=true "Work-Day-Scheduler")
 
 ### Link
 https://travis1308.github.io/work-day-sched/
